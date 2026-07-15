@@ -215,7 +215,7 @@ openpyxl
         <img src="https://github.com/vatsalgajera-tech.png" width="80" style="border-radius:50%"/><br/>
         <b>Vatsal Gajera</b>
       </a><br/>
-      <sub>SQL · Power BI · Python</sub>
+      <sub>Python · Pandas · Numpy</sub>
     </td>
   </tr>
 </table>
